@@ -1,0 +1,12 @@
+#header{
+    font-size:50px !important;
+    border-radius: 25px;
+    padding-left:35px;
+    padding-right:35px;
+}
+
+canvas{
+    margin-left:200px;
+    margin-top:85px;
+    box-shadow: 2px 2px 40px gray;
+}
